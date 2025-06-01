@@ -6,7 +6,7 @@ A clean, simple, and mobile-friendly **Trainer Dashboard** built using Flutter. 
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![light] | ![dark] |
+|    light   |   dark   |
 
 > 💡 You can update these images with actual screenshots from the emulator or a device.
 
